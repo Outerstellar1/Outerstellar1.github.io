@@ -1,7 +1,7 @@
 
 self.__uv$config = {
     prefix: '/static/ixl/',
-    bare:'https://bear.lema.cl',
+    bare:'https://collegeapp.me/v/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/static/uv/uv.handler.js',

@@ -1,7 +1,7 @@
 
 self.__uv$config = {
     prefix: '/static/ixl/',
-    bare:'https://collegeapp.me/v/',
+    bare:'https://bare.chromehack.com/bare/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/static/uv/uv.handler.js',
